@@ -7,11 +7,18 @@
         <groupId>com.atguigu.gmall</groupId>
         <version>1.0-SNAPSHOT</version>
     </parent>
+
+    <modules>
+        <module>common-util</module>
+        <module>service-util</module>
+    </modules>
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>common</artifactId>
     <packaging>pom</packaging>
     <version>1.0</version>
+
+
 
 
     <properties>
